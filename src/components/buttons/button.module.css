@@ -1,0 +1,6 @@
+.tspan {
+  grid-column: span 2;
+}
+button {
+  margin: 5px;
+}
